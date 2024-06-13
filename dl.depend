@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718278850 source:c:\users\aisha\desktop\langage c\aisha\dl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
